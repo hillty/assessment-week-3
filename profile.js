@@ -15,3 +15,11 @@ let ritualButton = document.querySelector('#ritual')
 ritualButton.addEventListener('click', () => {
     alert('My favorite ritual is playing valheim by myself while I am sad.')
 })
+
+
+// const buttonClassHere = document.querySelectorAll('button')
+
+// for(let i = 0; i < buttonClassHere.length; i++)
+//     buttonClassHere[i].addEventListener('click', (e) => {
+//         alert(`My favorite ${e.target.id} is ${e.target.value}`)
+//     })
